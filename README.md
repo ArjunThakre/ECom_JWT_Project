@@ -43,5 +43,5 @@ This project implements secure user authentication and product management with S
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/ArjunThakre/ECom_JWT_Project.git
+   cd ECom_JWT_Project
